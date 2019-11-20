@@ -1,5 +1,4 @@
-# eventum
-Eventum - a complete Business event management system based on asp.net core 
+# Eventum - a complete Business event management system based on asp.net core 
 
 Eventum is a next generation web based business event management system based on asp.net core mvc features include 1 - event web page designer ( minimal) 2 - attendees and attendance 3 - event publishing 4 - event sign up 5 - emails 6 - payments
 
